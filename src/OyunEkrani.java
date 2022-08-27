@@ -25,7 +25,7 @@ public class OyunEkrani extends JFrame {
         oyun.addKeyListener(oyun);
 
         oyun.setFocusable(true);
-        oyun.setFocusTraversalKeysEnabled(false);//Kılavye işlevleri için oluşturuldu
+        oyun.setFocusTraversalKeysEnabled(false);//Klavye işlevleri için oluşturuldu
 
         ekran.add(oyun);
 

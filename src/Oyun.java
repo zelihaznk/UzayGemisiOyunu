@@ -45,7 +45,7 @@ public class Oyun extends JPanel implements KeyListener, ActionListener {
 
 
     private int gecenSure = 0;
-    private int harcanan_ates =0;
+    private int harcanan_ates = 0;
 
     private BufferedImage image;
 
